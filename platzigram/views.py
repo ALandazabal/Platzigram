@@ -1,4 +1,3 @@
-#Platzigram views
 """Platzigram views."""
 
 # Django
